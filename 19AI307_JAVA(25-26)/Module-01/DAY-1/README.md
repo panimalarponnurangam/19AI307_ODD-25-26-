@@ -6,10 +6,15 @@ The machine supports all 6 relational operators:
 
 Operator	Meaning
 ==	Is equal to
+
 !=	Is not equal to
+
 >	Greater than
+
 <	Less than
+
 >=	Greater than or equal to
+
 <=	Less than or equal to
 Lovely enters two numbers. The machine prints the result (true or false) for each operator.
 
@@ -70,13 +75,10 @@ End the program.
 
 ## PROGRAM:
  ```
-/*
-Program to implement variables and Operators using Java
-Developed by: 
-RegisterNumber:  
+Program to implement variables and Operators using Java 
 Developed by: PANIMALAR P
 RegisterNumber:  212222110031
-*/
+
 ```
 
 ## Sourcecode.java:
@@ -113,4 +115,5 @@ public class Main
 
 ## RESULT:
 The program compares the two numbers using all relational operators and checks whether they are equal, not equal, greater, or less. It then prints true or false for each comparison based on the relationship between the two numbers.
+
 
