@@ -21,11 +21,11 @@ To write a Java program that reads input from the keyboard using InputStreamRead
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a InputStreamReader using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -56,5 +56,6 @@ public class Q2_InputStreamReader {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
