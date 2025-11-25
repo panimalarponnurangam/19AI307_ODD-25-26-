@@ -26,11 +26,11 @@ To write a Java program that checks whether a given number is prime by using the
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a InnerClass using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031 
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -86,6 +86,7 @@ public class PrimeChecker {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
