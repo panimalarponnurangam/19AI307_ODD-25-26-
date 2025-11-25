@@ -27,11 +27,9 @@ To write a Java program that reads an array of integers and finds the index of a
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Array concept using Java
 Developed by:PANIMALAR P
 RegisterNumber: 212222110031
-*/
 ```
 
 ## SOURCE CODE:
@@ -74,3 +72,4 @@ public class Main {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
