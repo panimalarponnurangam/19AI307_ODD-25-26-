@@ -19,12 +19,11 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Serialization and Deserialization using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031
 
-*/
 ```
 
 ## SOURCE CODE:
@@ -85,4 +84,5 @@ public class GZIPMemoryExample {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
