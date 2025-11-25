@@ -3,8 +3,8 @@
 ## QUESTION:
 Lovely found a magic machine that tells her how two numbers relate to each other.
 The machine supports all 6 relational operators:
-
 Operator	Meaning
+
 ==	Is equal to
 
 !=	Is not equal to
@@ -58,13 +58,8 @@ Read the second integer input and store it in variable b.
 
 Step 4:
 
-Evaluate the following relational expressions:
-a == b
-a != b
-a > b
-a < b
-a >= b
-a <= b
+Evaluate the relational expressions:
+
 Print the result
 
 Step 5:
@@ -115,5 +110,6 @@ public class Main
 
 ## RESULT:
 The program compares the two numbers using all relational operators and checks whether they are equal, not equal, greater, or less. It then prints true or false for each comparison based on the relationship between the two numbers.
+
 
 
