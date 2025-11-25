@@ -32,11 +32,11 @@ To write a Java program that initializes object variables using a constructor an
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Variable scope and Constructor using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -82,4 +82,5 @@ public class StudentDemo {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
