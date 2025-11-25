@@ -19,11 +19,11 @@ To implement the Factory Design Pattern to send different types of notifications
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Abstract Factory Pattern using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031 
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -102,4 +102,5 @@ public class Main {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
