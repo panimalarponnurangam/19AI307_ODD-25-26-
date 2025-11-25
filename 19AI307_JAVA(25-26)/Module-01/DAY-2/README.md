@@ -20,11 +20,11 @@ To design a program that checks whether the entered code is even or odd, and bas
 ## ALGORITHM :
 
 
-Start the program.
+1.Start the program.
 
-Input the code (integer).
+2.Input the code (integer).
 
-Check if the code is odd:
+3.Check if the code is odd:
 
 If odd → print "Access Denied".
 
@@ -34,7 +34,7 @@ If the code is < 100 → print "Weak Code".
 
 If the code is between 100 and 999 → print "Strong Code".
 
-End the program.
+4.End the program.
 
 
 
@@ -88,3 +88,4 @@ public class Main {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
