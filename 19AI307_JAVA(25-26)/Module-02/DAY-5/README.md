@@ -30,11 +30,11 @@ To create an Employee class where the display() method returns the current objec
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Access Modifiers using Java
 Developed by: PANIMALAR P
 RegisterNumber: 212222110031
-*/
+
 ```
 
 ## SOURCE CODE:
@@ -77,4 +77,5 @@ class prog {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
