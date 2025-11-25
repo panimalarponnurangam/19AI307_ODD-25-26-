@@ -22,10 +22,15 @@ Output Format
 Print:
 
 a == b: <true/false>
+
 a != b: <true/false>
+
 a > b: <true/false>
+
 a < b: <true/false>
+
 a >= b: <true/false>
+
 a <= b: <true/false>
 
 
@@ -34,21 +39,20 @@ To write a program that takes two integer inputs and evaluates all six relationa
 
 
 ## ALGORITHM :
-1.	
-2.
-3.
-4.
-5.
 Step 1:
+
 Start the program.
 
 Step 2:
+
 Read the first integer input and store it in variable a.
 
-Step 3
+Step 3:
+
 Read the second integer input and store it in variable b.
 
 Step 4:
+
 Evaluate the following relational expressions:
 a == b
 a != b
@@ -57,7 +61,9 @@ a < b
 a >= b
 a <= b
 Print the result
+
 Step 5:
+
 End the program.
 
 
@@ -107,3 +113,4 @@ public class Main
 
 ## RESULT:
 The program compares the two numbers using all relational operators and checks whether they are equal, not equal, greater, or less. It then prints true or false for each comparison based on the relationship between the two numbers.
+
